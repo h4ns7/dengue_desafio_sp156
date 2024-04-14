@@ -20,13 +20,13 @@ Os dados utilizados neste projeto foram obtidos a partir de [fonte de dados conf
 
 ## Ferramentas Utilizadas
 - Linguagem de Programação: Python
-- Bibliotecas: Pandas, Matplotlib, Seaborn, Scikit-learn
-- Ferramentas de Visualização: Tableau, Power BI
-- Ambiente de Desenvolvimento: Jupyter Notebook
+- Bibliotecas: Pandas
+- Ferramentas de Visualização:Power BI
+- Ambiente de Desenvolvimento: Colab google notebooks
 
 ## Estrutura do Repositório
 - `data/`: Pasta contendo os conjuntos de dados utilizados.
-- `notebooks/`: Pasta contendo os notebooks Jupyter utilizados para análise.
+- `notebooks/`: Pasta contendo os notebooks Colab google utilizados para análise.
 - `docs/`: Pasta opcional para armazenar documentação adicional.
 - `README.md`: Documentação principal do projeto.
 
@@ -34,7 +34,7 @@ Os dados utilizados neste projeto foram obtidos a partir de [fonte de dados conf
 Contribuições são bem-vindas! Caso deseje contribuir com este projeto, sinta-se à vontade para abrir pull requests ou reportar problemas através das issues.
 
 ## Contato
-Em caso de dúvidas ou sugestões, entre em contato através do email [muller97_@outlook.com].
+Em caso de dúvidas ou sugestões, entre em contato através do email muller97_@outlook.com.
 
 ---
 Autor: Diego Müller
